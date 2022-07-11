@@ -1,0 +1,147 @@
+.background
+{
+    background:  rgb(255, 0, 0);
+}
+.box{
+    position: relative;
+    background:  linear-gradient(to top, #ffffff, #dbdbdb);
+    width: 2398px;
+    height: 100px;
+    left: -9px;
+    bottom: 22px;
+}
+
+    .box2{
+        position: relative;
+        background: url(333.jpg);
+        background-size: contain; 
+        border-radius: 10px;
+        width: 1114px;
+        height: 740px;
+        left: 370px;
+        bottom: -100px;
+    }
+    .box3{
+        position: relative;
+        background: url(f.jpg)50% 50% no-repeat;
+        border-radius: 10px;
+        width: 750px;
+        height: 200px;
+        left: 370px;
+        bottom: 0px;
+    }
+    .box4{
+        position: relative;
+        border-radius: 10px;
+        background: url(1212.jpg);
+        background-size: contain;
+        border-radius: 10px;
+        width: 353px;
+        height: 200px;
+        left: 1130px;
+        bottom: 218px;
+    }
+    
+    .logo{
+        position: relative;
+        background: url(14.png) 50% 50% no-repeat;
+        background-size: contain;
+        cursor: pointer;
+        border: none;
+        width: 200px;
+        height: 70px;
+        left: 370px;
+        bottom: 122px;    
+}
+
+    .button1 {
+        position: relative;
+        border: none;   
+        background-color: inherit;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 380px;
+        bottom: 149px;
+    }
+    .button2 {
+        position: relative;
+        border: none;   
+        background-color: inherit;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 370px;
+        bottom: 149px;
+    }
+    .button3 {
+        position: relative;
+        border: none;   
+        background-color: inherit;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 370px;
+        bottom: 149px;
+    }
+    .button4 {
+        position: relative;
+        border: none;   
+        background-color: inherit;
+        padding: 14px 28px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 370px;
+        bottom: 149px;
+    }
+    .button5 {
+        position: relative;
+        border: solid;   
+        border-radius: 55px;
+        background:rgb(255, 255, 255);
+        padding: 6px 30px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 370px;
+        bottom: 149px;
+    }
+    .ukr {
+        position: relative;
+        border: solid red;   
+        border-radius: 55px;
+        background:rgb(255, 255, 255);
+        padding: 6px 30px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 370px;
+        bottom: 149px;
+    }
+    .deu {
+        position: relative;
+        border: solid;   
+        border-radius: 55px;
+        background:rgb(255, 255, 255);
+        padding: 6px 30px;
+        font-size: 16px;
+        cursor: pointer;
+        display: inline-block;
+        left: 370px;
+        bottom: 149px;
+    }
+    .qew{
+        position: relative;
+        left: 400px;
+        bottom: 609px;
+        color: rgb(255, 255, 255);
+        
+    }
+    
+    /* On mouse-over */
+    button:hover {color:  rgb(214, 36, 36);}
+  
